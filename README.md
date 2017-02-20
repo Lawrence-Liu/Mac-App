@@ -1,6 +1,8 @@
 # Mac-App
 R
 
+RStudio
+
 Anaconda
 
 1Password
